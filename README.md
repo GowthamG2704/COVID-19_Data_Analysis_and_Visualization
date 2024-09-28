@@ -13,23 +13,12 @@ This project focuses on analyzing COVID-19 data, specifically the confirmed case
    
 3. **Tableau Dashboard**:
    - A dashboard is created in Tableau, visualizing key trends such as global case progression, country comparisons, and active case trends. Interactive filters and maps allow users to explore the data at different granularities.
+  
+   - Dashboard Link : https://public.tableau.com/app/profile/gowtham.g8004/viz/COVID-19DataAnalysis_17273398607190/Dashboard1 
    
 4. **Power BI Dashboard**:
    - Another dashboard is built in Power BI, providing comprehensive insights into regional and global COVID-19 data, with added slicers for filtering data by country and time.
+  
+   - Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMjE1NjJkYmEtMzFkZS00NDAwLTkzMWEtY2U1YzU2OWJlZjA4IiwidCI6ImZlYmNlODJhLTViNmEtNDc0NS05NmU3LTA1MDg3ZjUyZmQyZCJ9&disablecdnExpiration=1727527241 
 
 ---
-
-## Installation and Setup
-
-### Prerequisites
-Ensure you have the following software installed on your system:
-- **Python** (version 3.8 or later)
-- **Jupyter Notebook** or any Python IDE (e.g., VSCode)
-- **Tableau Desktop**
-- **Power BI Desktop**
-
-### Required Python Libraries
-Install the required Python libraries to run the data cleaning and EDA scripts:
-
-```bash
-pip install pandas numpy seaborn matplotlib
